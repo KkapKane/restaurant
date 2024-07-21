@@ -16,7 +16,7 @@ data_*/
 .DS_Store
 *.swp
 *~
-
+test
 # Project-specific ignores
 # Add any project-specific files or directories you don't want to track
 
